@@ -8,7 +8,7 @@
 //
 
 import UIKit
-
+// swiftlint:disable all
 public enum HUDContentType {
     case success
     case error
